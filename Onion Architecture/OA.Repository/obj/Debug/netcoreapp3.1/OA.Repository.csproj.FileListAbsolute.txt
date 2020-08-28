@@ -1,0 +1,5 @@
+C:\Users\MSI\source\repos\Onion Architecture\OA.Repository\bin\Debug\netcoreapp3.1\OA.Repository.deps.json
+C:\Users\MSI\source\repos\Onion Architecture\OA.Repository\bin\Debug\netcoreapp3.1\OA.Repository.dll
+C:\Users\MSI\source\repos\Onion Architecture\OA.Repository\obj\Debug\netcoreapp3.1\OA.Repository.csprojAssemblyReference.cache
+C:\Users\MSI\source\repos\Onion Architecture\OA.Repository\obj\Debug\netcoreapp3.1\OA.Repository.AssemblyInfoInputs.cache
+C:\Users\MSI\source\repos\Onion Architecture\OA.Repository\obj\Debug\netcoreapp3.1\OA.Repository.AssemblyInfo.cs
