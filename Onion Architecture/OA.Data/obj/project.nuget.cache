@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "eSXC+sYGO8FS/1Qlo6/mh2j5uHEFhfBGtx2hczgBudbo/mrRoATPZvS5sCpk/DXKNuKA014KS6tFg/X/4HuaDw==",
+  "dgSpecHash": "I+5uwj74DIyx1M1EoHdGuri8hySNT9rNbzpAwnG71xTN7sYkFy2soVlNrN7Bgo3tA/d6piYFjiYf4kgNlWZ6Ag==",
   "success": true,
-  "projectFilePath": "C:\\Users\\MSI\\source\\repos\\Onion Architecture\\OA.Data\\OA.Data.csproj",
+  "projectFilePath": "C:\\Users\\MSI\\Documents\\GitHub\\OnionArchitectureExample\\Onion Architecture\\OA.Data\\OA.Data.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\MSI\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\MSI\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

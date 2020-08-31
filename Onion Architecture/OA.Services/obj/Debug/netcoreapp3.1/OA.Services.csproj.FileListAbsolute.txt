@@ -1,0 +1,14 @@
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.deps.json
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.dll
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Services\bin\Debug\netcoreapp3.1\OA.Services.pdb
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Services\bin\Debug\netcoreapp3.1\OA.Data.dll
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Services\bin\Debug\netcoreapp3.1\OA.Repository.dll
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Services\bin\Debug\netcoreapp3.1\OA.Data.pdb
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Services\bin\Debug\netcoreapp3.1\OA.Repository.pdb
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csprojAssemblyReference.cache
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.AssemblyInfo.cs
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.csproj.CopyComplete
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.dll
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Services\obj\Debug\netcoreapp3.1\OA.Services.pdb

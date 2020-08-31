@@ -6,3 +6,15 @@ C:\Users\MSI\source\repos\Onion Architecture\OA.Data\obj\Debug\netcoreapp3.1\OA.
 C:\Users\MSI\source\repos\Onion Architecture\OA.Data\bin\Debug\netcoreapp3.1\OA.Data.runtimeconfig.json
 C:\Users\MSI\source\repos\Onion Architecture\OA.Data\bin\Debug\netcoreapp3.1\OA.Data.runtimeconfig.dev.json
 C:\Users\MSI\source\repos\Onion Architecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.genruntimeconfig.cache
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Data\bin\Debug\netcoreapp3.1\OA.Data.deps.json
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Data\bin\Debug\netcoreapp3.1\OA.Data.runtimeconfig.json
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Data\bin\Debug\netcoreapp3.1\OA.Data.runtimeconfig.dev.json
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Data\bin\Debug\netcoreapp3.1\OA.Data.dll
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Data\bin\Debug\netcoreapp3.1\OA.Data.pdb
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.AssemblyInfoInputs.cache
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.AssemblyInfo.cs
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.dll
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.pdb
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.genruntimeconfig.cache
+C:\Users\MSI\Documents\GitHub\OnionArchitectureExample\Onion Architecture\OA.Data\obj\Debug\netcoreapp3.1\OA.Data.csprojAssemblyReference.cache
